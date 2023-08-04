@@ -27,27 +27,18 @@ The team purchases and owns the pool ropes. Parents, please help remind swimmers
 
 Does your swimmer need a little extra practice? If so, Coaches Abby, Kate and Elena are available for private lessons. Sign up information is available on the table by the wading pool. Swim Team volunteers (and coaches only after practice) can answer any questions about lessons.
 
-
-
-
 **IS YOUR SWIMMER PRONE TO EAR INFECTIONS?**
 
 If your swimmer is prone to ear infections, consider using ear plugs and a Swimmer’s Ear solution after exiting the water (1 part white vinegar to 1 part rubbing alcohol). We want to avoid missed practice time due to ear infections.
 
-
-
 **PREVENT CHLORINE DAMAGED HAIR**
 
 Dry, brittle, green hair is no fun during swim season. Saturate hair with clean tap water prior to entering the pool so it doesn’t absorb as much chlorine. Apply a leave in conditioner or coconut oil to hair. Wear a swim cap. Swim caps not only help swimmers move faster in the water, but they reduce chlorine exposure. Rinse with clean water after swimming. Wash hair with 1-part Apple Cider Vinegar and 4-parts water or use a swimming shampoo that removes chlorine and other oxidized metals. Condition hair well.
-
-
 
 **DON’T MISS OUT ON TEAM COMMUNICATIONS**
 
 Weather delays and important announcements will be communicated through Remind texts.
 
 Sign up through by sending a text message: enter 81010 in the “to” field (address line), and type @villagerp in the “message” field, then click send!
-
-
 
 **Make a splash.**
