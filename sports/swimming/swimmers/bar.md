@@ -1,5 +1,14 @@
 
-# Time tracking
+# General
+
+| Practice Date   | 50 yd Laps | Total Distance (yds) |  Comments | 
+|--------------|---------------|---------------|---------------|
+| 2023-07-31 | 10 | 500 | NA |
+| 2023-08-01 | 10 | 500 | NA |
+| 2023-08-02 | 10 | 500 | NA |
+| 2023-08-03 | 10 | 500 | NA |
+
+# Performance Measurement
 
 | Swim Type    | Distance (yds) | Date   | Time Taken (s) | Comments | 
 |--------------|---------------|---------------|----------------|-----------|
