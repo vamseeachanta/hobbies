@@ -2,10 +2,18 @@
 
 | Date   | Assignment | Comments |
 |--------------|---------------|---------------|
-| 2023-08-12 |watch youtube <br> Practice Visualizations <br> Practice face-down, push-from-wall, bow-body <br> face-up, Back-float, with noodle <br> bubbling | NA |
+| 2023-08-12 | watch youtube and send videos <br> Practice Visualizations <br> See current practices below. | NA |
 
 
 # General
+
+**End of season targets**
+- Time targets: None
+- Current Practice :
+    - 10 bubble sets : **10**
+    - 3 face-up floating: **5** laps
+    - 3 face-down push-from-wall: **5** laps
+- Practice targets: TBA
 
 
 # Performance Measurement
@@ -24,3 +32,7 @@ Recommended ones are:
 - Kicking strongly with legs coming all the way to water surface.
 - visualize daily practice assignments before entering the pool 
 - Add more as you see fit
+
+## Recommended videos
+
+Send what you prefer. I will add them here. This is your home assignment.
