@@ -56,3 +56,8 @@ Recommended ones are:
 
 https://youtu.be/PyS3hkU1-is  
 https://youtu.be/l2ZAJL8Ar7Q
+
+## Equipment Readiness
+
+- Buy good beach towel
+- Try out equipment from coach and buy them from SwimOutlet.com

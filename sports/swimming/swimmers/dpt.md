@@ -36,3 +36,15 @@ Recommended ones are:
 ## Recommended videos
 
 Send what you prefer. I will add them here. This is your home assignment.
+
+## Equipment Readiness
+
+Season 1 is basics and getting all equipment needed.
+
+- Right googles. Try Arjuns. So we can buy more next year at Costco.
+- Got to SwimOutlet.com. Buy equipment now for next year. If you do no spend now, there is less chance you will enter pool next year.
+- Buy swim robe for privacy, dryness, change-out etc. 
+- Buy good beach towel
+
+https://www.target.com/p/s-m-mom-bathrobe-white-linum-home-textiles/-/A-78309226#lnk=sametab
+
