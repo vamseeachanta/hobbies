@@ -2,7 +2,7 @@
 
 | Date   | Assignment | Comments |
 |--------------|---------------|---------------|
-| 2023-08-08 | Visualize that you are swimming fast in free style. <br> watch below free style videos: https://youtu.be/PyS3hkU1-is  <br> https://youtu.be/l2ZAJL8Ar7Q | NA |
+| 2023-08-08 | practice visualizations below <br> watch videos below  | NA |
 
 
 # General
@@ -40,3 +40,19 @@
 | Back | 50 | 2023-08-03 | 131 | - [x] ok?
 | Breast | 50 | 2023-08-03 | 104 | - [x] ok?
 
+## Visualizations - Amatuer Swimmers
+
+The recommended visualize during the day before entering the pool.
+
+Recommended ones are:
+- Swimming fast in all strokes.
+- Kicking strongly with legs coming all the way to water surface.
+- visualize daily practice assignments before entering the pool 
+- Add more as you see fit
+
+## Recommended videos
+
+### FreeStyle
+
+https://youtu.be/PyS3hkU1-is  
+https://youtu.be/l2ZAJL8Ar7Q
