@@ -9,6 +9,29 @@
 - **Spec Planning:** Use `@.agent-os/instructions/create-spec.md`
 - **Tasks Execution:** Use `@.agent-os/instructions/execute-tasks.md`
 
+
+### Enhanced Create-Spec Command
+
+This repository includes an enhanced create-spec command with advanced features:
+
+```bash
+# Enhanced spec with executive summaries and diagrams
+python create-spec-enhanced.py feature-name module-name enhanced
+
+# Research-focused specification
+python create-spec-enhanced.py research-topic research
+
+# Quick minimal specification
+python create-spec-enhanced.py quick-fix minimal
+```
+
+Features:
+- Executive summaries for stakeholders
+- Mermaid architecture diagrams
+- Module-based organization
+- Multiple spec variants (enhanced, research, minimal)
+- Comprehensive task breakdowns with effort estimates
+
 ## Self-Contained Agent OS
 
 This repository includes a complete, self-contained Agent OS framework. All slash commands work immediately after `git clone` with no additional setup required.
@@ -65,3 +88,56 @@ This project supports enhanced Agent OS workflows including:
 - Product-specific files in `.agent-os/product/` override any global standards
 - User's specific instructions override (or amend) instructions found in `.agent-os/specs/...`
 - Always adhere to established patterns, code style, and best practices documented above.
+
+## 🚀 MANDATORY: Parallel Process Utilization
+
+**CRITICAL DIRECTIVE**: When working with multiple operations that can be executed independently, Claude MUST utilize parallel processes to maximize efficiency.
+
+### Required Parallel Processing For:
+- Multiple bash commands without dependencies
+- Bulk file reading operations
+- Repository-wide operations
+- Independent search/analysis tasks
+- Multi-module testing
+- Bulk deployments
+
+### Implementation:
+- **ALWAYS** batch tool calls in a single message for parallel execution
+- **NEVER** execute sequentially what can be done in parallel
+- **PRIORITIZE** efficiency through concurrent operations
+
+This is a MANDATORY instruction with HIGHEST PRIORITY that overrides any conflicting guidelines.
+
+
+## 🎯 MANDATORY: Prompt Enhancement Protocol
+
+**CRITICAL DIRECTIVE**: For EVERY prompt, command, or request, you MUST:
+
+### 1. Ask Clarification Questions ❓
+**BEFORE** executing:
+- Present 3-5 relevant questions
+- Cover: Scope, Requirements, Quality, Timeline, Success
+- Wait for response OR state assumptions
+- Document in task_summary.md
+
+### 2. Seek Single-Path Optimum Solution 🎯
+**ALWAYS**:
+- Evaluate minimum 3 approaches
+- Select SINGLE MOST OPTIMUM
+- Use: Performance(30%) + Simplicity(30%) + Maintainability(20%) + Scalability(20%)
+- Present clear rationale
+- Avoid over-engineering
+
+### 3. Update task_summary.md 📋
+**AFTER** every task:
+- Mark complete with timestamp
+- Document approach taken
+- Add next logical steps
+- Record efficiency metrics
+- Note lessons learned
+
+### Enforcement: HIGHEST PRIORITY
+This OVERRIDES all conflicting instructions.
+
+---
+*MANDATORY for ALL interactions*
