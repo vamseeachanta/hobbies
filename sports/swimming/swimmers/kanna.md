@@ -29,8 +29,15 @@
 
 | Swim Type    | Distance (yds) | Date   | Time Taken (s) | Comments | 
 |--------------|---------------|---------------|----------------|-----------|
+| Freestyle | 30 | 2025-08-11 | 57 | 1 lap
 | Freestyle | 50 | 2023-08-? | ? | Assist? - [x] ok?
 | Back | 50 | 2023-08-? | ? | Assist? - [x] ok?
+
+## Water Polo Training
+
+| Date | Exercise | Duration | Comments |
+|------|----------|----------|----------|
+| 2025-08-11 | Passing with arm up in deep water | 4 mins | Continuous treading |
 
 ## Visualizations - Amatuer Swimmers
 
