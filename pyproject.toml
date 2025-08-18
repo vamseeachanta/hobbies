@@ -24,8 +24,7 @@ classifiers = [
 ]
 
 dependencies = [
-    "assetutilities @ git+https://github.com/username/assetutilities.git",
-
+    "assetutilities @git+https://github.com/username/assetutilities.git"
 ]
 
 [project.optional-dependencies]
@@ -51,9 +50,6 @@ docs = [
 "Homepage" = "https://github.com/username/hobbies"
 "Bug Tracker" = "https://github.com/username/hobbies/issues"
 "Documentation" = "https://github.com/username/hobbies#readme"
-
-[tool.setuptools]
-packages = ["src"]
 
 [tool.setuptools.packages.find]
 where = ["."]
