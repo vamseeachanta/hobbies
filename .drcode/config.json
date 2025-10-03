@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "repository": "hobbies",
+  "workspace": "workspace-hub",
+  "parentConfig": "../../.drcode/config.json"
+}
