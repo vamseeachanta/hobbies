@@ -34,3 +34,7 @@ https://www.differentbrains.org/10-reasons-to-play-tennis-for-individuals-with-a
 
 https://aryasamajhouston.org/ Sunday Satsang: 10 AM to 12 Noon - A demo will be encouraging. (Not ready but explore options)
 
+### Parents Training
+
+https://podcasts.apple.com/us/podcast/building-confidence-in-young-athletes/id1602758597
+

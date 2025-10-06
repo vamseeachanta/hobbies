@@ -1,71 +1,79 @@
 # Product Mission
 
-> Last Updated: 2025-07-31
+> Last Updated: 2025-07-24
 > Version: 1.0.0
 
 ## Pitch
 
-Hobbies is a comprehensive personal development and recreational activity management system that helps individuals and families organize, track, and document their various interests, learning experiences, and recreational pursuits across sports, arts, education, and special needs support.
+Hobbies Knowledge Repository is a comprehensive personal knowledge management system that helps individuals and families organize, document, and share learning experiences across multiple life interests and activities. By providing structured documentation and resources for hobbies ranging from sports and gardening to software development and cultural activities, it serves as both a personal learning portfolio and a valuable shared resource for family members and community groups.
 
 ## Users
 
 ### Primary Customers
 
-- **Families with Children**: Parents managing multiple children's activities and development programs
-- **Individual Hobbyists**: Adults pursuing various recreational and educational interests
-- **Special Needs Families**: Families requiring specialized activity coordination and documentation
-- **Activity Coordinators**: Coaches, instructors, and program managers organizing group activities
+- **Individual Knowledge Seekers**: People who want to systematically organize and track their learning across multiple hobbies and interests
+- **Family Units**: Families looking for shared resources and documentation for activities involving children with special needs
 
 ### User Personas
 
-**Active Parent** (30-50 years old)
-- **Role:** Parent/Guardian managing family activities
-- **Context:** Coordinating multiple children's sports, arts, and educational programs
-- **Pain Points:** Scattered documentation, scheduling conflicts, progress tracking across activities
-- **Goals:** Centralized activity management, progress documentation, resource organization
+**Personal Knowledge Manager** (25-65 years old)
+- **Role:** Parent, hobbyist, lifelong learner
+- **Context:** Managing multiple interests and activities while supporting family members with diverse needs
+- **Pain Points:** Scattered information across different sources, difficulty tracking progress, lack of organized reference materials
+- **Goals:** Centralize knowledge, create reusable resources, build a learning legacy for family
 
-**Special Needs Caregiver** (25-60 years old)
-- **Role:** Parent or caregiver of individuals with special needs
-- **Context:** Managing therapeutic activities, developmental programs, and documentation
-- **Pain Points:** Complex paperwork, multiple provider coordination, progress tracking
-- **Goals:** Organized documentation, resource accessibility, development tracking
+**Community Resource Seeker** (20-50 years old)
+- **Role:** Parent, coach, community member
+- **Context:** Looking for organized guides and resources for activities involving children or community groups
+- **Pain Points:** Starting from scratch with new activities, finding reliable information, adapting resources for special needs
+- **Goals:** Access proven methods, save time on research, find inclusive activity approaches
 
 ## The Problem
 
-### Fragmented Activity Management
+### Scattered Knowledge Management
 
-Families often struggle with managing documentation, schedules, and resources across multiple activities and interests. This leads to lost paperwork, missed opportunities, and difficulty tracking progress or achievements across different domains.
+Personal learning experiences and hobby documentation are typically scattered across multiple platforms, making it difficult to build on previous knowledge or share insights with others. This fragmentation leads to repeated research efforts and lost valuable insights.
 
-**Our Solution:** Centralized documentation and organization system for all recreational and developmental activities.
+**Our Solution:** A centralized, well-organized repository that structures knowledge by hobby categories with consistent documentation patterns.
 
-### Special Needs Resource Organization
+### Lack of Special Needs Considerations
 
-Families with special needs individuals face additional complexity in coordinating therapeutic activities, educational resources, and developmental programs with proper documentation and progress tracking.
+Most hobby and activity resources don't consider the unique needs of individuals with autism or other special requirements, making it challenging for families to find appropriate guidance and inclusive approaches.
 
-**Our Solution:** Specialized organization tools for special needs activities with comprehensive resource management.
+**Our Solution:** Integrated special needs considerations and autism-friendly resources across all activity areas.
+
+### Community Knowledge Isolation
+
+Individual families and hobbyists often work in isolation, recreating resources and learning paths that others have already developed, leading to duplicated effort and missed opportunities for shared learning.
+
+**Our Solution:** A sharable resource structure that can benefit family members, community groups, and fellow hobbyists.
 
 ## Differentiators
 
-### Multi-Domain Activity Support
+### Integrated Special Needs Focus
 
-Unlike single-purpose activity apps, we provide comprehensive organization across sports, arts, education, and special needs programs. This results in unified family activity management rather than fragmented solutions.
+Unlike general hobby websites or documentation systems, we integrate autism resources and special needs considerations directly into each hobby area. This results in more inclusive and accessible learning materials that serve diverse family needs.
 
-### Special Needs Integration
+### Multi-Generational Knowledge Repository
 
-Unlike general activity trackers, we provide specialized documentation and organization tools designed for special needs programs and therapeutic activities. This results in better coordination with healthcare and educational providers.
+Unlike typical personal note-taking systems, we structure documentation to serve both personal reference and family/community sharing. This creates lasting value that extends beyond individual use to benefit multiple generations and community members.
+
+### Cross-Hobby Learning Integration
+
+Unlike single-topic resources, we maintain connections and learning patterns across diverse hobby areas from sports to software development. This enables cross-pollination of insights and holistic personal development tracking.
 
 ## Key Features
 
 ### Core Features
 
-- **Activity Organization** - Structured documentation for sports, arts, music, and educational activities
-- **Resource Management** - Centralized storage for schedules, forms, assessments, and program materials
-- **Progress Tracking** - Development milestone tracking and achievement documentation
-- **Multi-Activity Support** - Coordination across swimming, soccer, tennis, music, scouts, and educational programs
+- **Structured Documentation System:** Organized hobby categories (arts/music, autism resources, cultural activities, gardening, software development, sports) with consistent documentation patterns
+- **Personal Learning Portfolio:** Comprehensive tracking of learning experiences, progress, and insights across multiple interest areas
+- **Special Needs Integration:** Autism resources and accessibility considerations woven throughout all hobby documentation
+- **Multi-Format Resource Support:** Integration of PDFs, images, markdown documentation, and external links in a unified system
 
 ### Collaboration Features
 
-- **Family Coordination** - Shared access for multiple family members and caregivers
-- **Provider Integration** - Communication tools for coaches, instructors, and therapists
-- **Document Sharing** - Secure sharing of assessments, schedules, and progress reports
-- **Special Needs Support** - Specialized tools for autism support, therapy coordination, and developmental tracking
+- **Family Resource Sharing:** Documentation structured for easy sharing among family members with different access needs
+- **Community Knowledge Base:** Organized resources that can benefit community groups, coaches, and fellow hobbyists
+- **Progress Documentation:** Tracking systems for individual and family member development across different activities
+- **Reference Material Library:** Curated collection of guides, forms, and educational materials for each hobby area
