@@ -1,31 +1,20 @@
-# Hobbies Agent Adapter
+# Hobbies — Agent Context
 
-> Generated from workspace-hub/AGENTS.md
-> Contract-Version: 1.0.0
-> Generated-At: 2026-02-17T16:39:59Z
+> Repo type: personal knowledge base (not a software project)
+> No tests, no CI, no build tools required here.
 
-## Adapter Role
+## Repo Purpose
 
-This file is a provider-specific adapter for Claude-compatible tooling.
-The canonical contract is in workspace-hub/AGENTS.md.
+Family reference for gardening, sports, cultural activities, autism resources, and personal
+development. All content is markdown or binary reference files (PDFs, images).
 
-## Required Gates
+## Key Rules
 
-1. Every non-trivial task must map to a WRK-* item in .claude/work-queue/.
-2. Planning + explicit approval are required before implementation.
-3. Route B/C work requires cross-review before completion.
+1. Do not add software scaffolding, agent frameworks, or build tooling.
+2. Do not run TDD or coverage workflows — there is no source code.
+3. Every non-trivial change maps to a WRK-* item in workspace-hub work-queue.
 
-## Plan and Spec Locality
+## Docs
 
-1. Route A/B plan details can live in WRK body sections.
-2. Route C execution specs: specs/wrk/WRK-<id>/.
-3. Repository/domain specs: specs/repos/<repo>/.
-4. Templates: specs/templates/.
-
-## Compatibility
-
-Legacy docs may exist during migration, but AGENTS.md is canonical.
-
-## Repo Overrides
-
-Add repo-specific details below this section without weakening required gates.
+- `docs/repo-audit.md` — content inventory and scaffolding removal plan
+- `docs/roadmap.md` — phased content goals and cleanup milestones
