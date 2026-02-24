@@ -1,43 +1,31 @@
-# Hobbies
+# Hobbies Agent Adapter
 
-> Inherits: workspace-hub base configuration
+> Generated from workspace-hub/AGENTS.md
+> Contract-Version: 1.0.0
+> Generated-At: 2026-02-17T16:39:59Z
 
-## Overview
+## Adapter Role
 
-Personal knowledge management system for organizing learning materials across multiple hobby areas (sports, gardening, software development, cultural activities) with integrated autism resources for family accessibility.
+This file is a provider-specific adapter for Claude-compatible tooling.
+The canonical contract is in workspace-hub/AGENTS.md.
 
-## Tech Stack
+## Required Gates
 
-- Markdown documentation with file-based organization
-- Git version control
-- Future: Static site generation (Jekyll/Hugo)
+1. Every non-trivial task must map to a WRK-* item in .claude/work-queue/.
+2. Planning + explicit approval are required before implementation.
+3. Route B/C work requires cross-review before completion.
 
-## Project Structure
+## Plan and Spec Locality
 
-```
-hobbies/
-├── arts-music/     # Tuition and education materials
-├── autism/         # Medicaid resources, accessibility
-├── cultural/       # Bala Vihar, community activities
-├── gardening/      # Fruits, vegetables growing guides
-├── sdev/           # Software development learning
-└── sports/         # Swimming, tennis, soccer, cycling
-```
+1. Route A/B plan details can live in WRK body sections.
+2. Route C execution specs: specs/wrk/WRK-<id>/.
+3. Repository/domain specs: specs/repos/<repo>/.
+4. Templates: specs/templates/.
 
-## Commands
+## Compatibility
 
-```bash
-# No build required - file-based documentation
-ls -la                    # Browse categories
-git status                # Track changes
-```
+Legacy docs may exist during migration, but AGENTS.md is canonical.
 
-## Project-Specific Rules
+## Repo Overrides
 
-- Integrate autism considerations throughout all hobby documentation
-- Use progressive enhancement - maintain file-based access
-- Follow multi-format resource support (MD, PDF, images)
-
----
-
-*Rules inherited from workspace-hub/CLAUDE.md*
+Add repo-specific details below this section without weakening required gates.
