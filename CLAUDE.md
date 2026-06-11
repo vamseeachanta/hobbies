@@ -12,7 +12,7 @@ development. All content is markdown or binary reference files (PDFs, images).
 
 1. Do not add software scaffolding, agent frameworks, or build tooling.
 2. Do not run TDD or coverage workflows — there is no source code.
-3. Every non-trivial change maps to a WRK-* item in workspace-hub work-queue.
+3. Every non-trivial change maps to a GitHub issue (`gh issue list`); no local task IDs.
 
 ## Docs
 
